@@ -11,7 +11,7 @@ I'm interested in post-quantum cryptography, data analysis and security.
 - [Modelo_P3](https://github.com/Javiifdez/Modelo_P3): discrete-event simulation of the evacuation of a university building with SimEvents/MATLAB (team project).
 
 ## Tech
-Python · NumPy · SageMath · MATLAB/Simulink · SQL · Git · OpenSSL · Qiskit (basics)
+Python · NumPy · SageMath · MATLAB/Simulink · Git · Qiskit (basics)
 
 ## Find me
 [LinkedIn](https://www.linkedin.com/in/javier-fernández-meroño) · [Credly](https://www.credly.com/users/javier-fernandez.3b956f82)
