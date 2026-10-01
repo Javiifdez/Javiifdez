@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Javier Fernández Meroño 👋
 
-<!--
-**Javiifdez/Javiifdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematical Engineering student at Universidad Francisco de Vitoria (UFV), based near Madrid.
+I'm interested in post-quantum cryptography, data analysis and security.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🔐 **Bachelor's thesis:** a reproducible benchmark of classical vs. post-quantum hybrid key exchange (ML-KEM) in TLS 1.3, using OpenSSL and oqs-provider.
+- 📊 Building up my data skills: SQL, Excel and pandas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Proyecto_Cripto_Dilithium](https://github.com/Javiifdez/Proyecto_Cripto_Dilithium): implementation of the CRYSTALS-Dilithium post-quantum signature scheme in SageMath/Python (university cryptography project, team of three).
+- [Modelo_P3](https://github.com/Javiifdez/Modelo_P3): discrete-event simulation of the evacuation of a university building with SimEvents/MATLAB (team project).
+
+## Tech
+Python · NumPy · SageMath · MATLAB/Simulink · SQL · Git · OpenSSL · Qiskit (basics)
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/javier-fernández-meroño) · [Credly](https://www.credly.com/users/javier-fernandez.3b956f82)
