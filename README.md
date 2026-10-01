@@ -5,7 +5,6 @@ I'm interested in post-quantum cryptography, data analysis and security.
 
 ## What I'm working on
 - 🔐 **Bachelor's thesis:** a reproducible benchmark of classical vs. post-quantum hybrid key exchange (ML-KEM) in TLS 1.3, using OpenSSL and oqs-provider.
-- 📊 Building up my data skills: SQL, Excel and pandas.
 
 ## Projects
 - [Proyecto_Cripto_Dilithium](https://github.com/Javiifdez/Proyecto_Cripto_Dilithium): implementation of the CRYSTALS-Dilithium post-quantum signature scheme in SageMath/Python (university cryptography project, team of three).
